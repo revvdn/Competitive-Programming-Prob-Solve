@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 12 |
+| Codeforces | 1 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **29** |
+| **Total** | **18** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -35,3 +35,9 @@ A structured repository containing solutions to various competitive programming 
 
 ## Contribution
 This is a personal repository for tracking progress. Feel free to explore the solutions and notes.
+
+## Codeforces (Detailed Submissions)
+
+| #   | Title | Rating | Tags | Submission |
+| --- | ----- | ------ | ---- | ---------- |
+| 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
