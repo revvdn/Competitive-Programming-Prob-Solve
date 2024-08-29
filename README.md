@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 4 |
+| Codeforces | 5 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **21** |
+| **Total** | **22** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -44,3 +44,4 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
+| 1006C | [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) | 1200 | binary search, data structures, two pointers | [Aug/29/2024 04:25 PM](https://codeforces.com/contest/1006/submission/278613684) |
