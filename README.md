@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 8 |
+| Codeforces | 9 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **25** |
+| **Total** | **26** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2010A | [Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A) | 800 | brute force, implementation, math | [Sep/03/2024 10:14 AM](https://codeforces.com/contest/2010/submission/279406177) |
 | 2010B | [Three Brothers](https://codeforces.com/problemset/problem/2010/B) | 800 | brute force, implementation, math | [Sep/03/2024 09:29 AM](https://codeforces.com/contest/2010/submission/279403495) |
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
