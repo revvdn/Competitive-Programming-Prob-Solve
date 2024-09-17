@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 18 |
+| Codeforces | 19 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **35** |
+| **Total** | **36** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 339A | [Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | greedy, implementation, sortings, strings | [Sep/17/2024 08:58 PM](https://codeforces.com/contest/339/submission/281617191) |
 | 112A | [Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | implementation, strings | [Sep/17/2024 08:54 PM](https://codeforces.com/contest/112/submission/281616678) |
 | 263A | [Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | implementation | [Sep/17/2024 08:32 PM](https://codeforces.com/contest/263/submission/281613750) |
 | 50A | [Domino piling](https://codeforces.com/problemset/problem/50/A) | 800 | greedy, math | [Sep/17/2024 08:26 PM](https://codeforces.com/contest/50/submission/281612864) |
