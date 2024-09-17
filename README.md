@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 21 |
+| Codeforces | 22 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **38** |
+| **Total** | **39** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -60,4 +60,5 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) | 1200 | binary search, data structures, two pointers | [Aug/29/2024 04:25 PM](https://codeforces.com/contest/1006/submission/278613684) |
+| 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
