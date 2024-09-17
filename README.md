@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 14 |
+| Codeforces | 15 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **31** |
+| **Total** | **32** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 158A | [Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | *special, implementation | [Sep/17/2024 08:22 PM](https://codeforces.com/contest/158/submission/281612375) |
 | 282A | [Bit++](https://codeforces.com/problemset/problem/282/A) | 800 | implementation | [Sep/17/2024 08:09 PM](https://codeforces.com/contest/282/submission/281610608) |
 | 231A | [Team](https://codeforces.com/problemset/problem/231/A) | 800 | brute force, greedy | [Sep/17/2024 02:59 PM](https://codeforces.com/contest/231/submission/281576295) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | strings | [Sep/17/2024 02:50 PM](https://codeforces.com/contest/71/submission/281575234) |
