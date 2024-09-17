@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 12 |
+| Codeforces | 13 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **29** |
+| **Total** | **30** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 231A | [Team](https://codeforces.com/problemset/problem/231/A) | 800 | brute force, greedy | [Sep/17/2024 02:59 PM](https://codeforces.com/contest/231/submission/281576295) |
 | 71A | [Way Too Long Words](https://codeforces.com/problemset/problem/71/A) | 800 | strings | [Sep/17/2024 02:50 PM](https://codeforces.com/contest/71/submission/281575234) |
 | 1985B | [Maximum Multiple Sum](https://codeforces.com/problemset/problem/1985/B) | 800 | brute force, math, number theory | [Sep/04/2024 11:30 AM](https://codeforces.com/contest/1985/submission/279748866) |
 | 2010A | [Alternating Sum of Numbers](https://codeforces.com/problemset/problem/2010/A) | 800 | brute force, implementation, math | [Sep/03/2024 10:14 AM](https://codeforces.com/contest/2010/submission/279406177) |
