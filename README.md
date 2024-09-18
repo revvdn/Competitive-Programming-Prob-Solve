@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 26 |
+| Codeforces | 27 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **43** |
+| **Total** | **44** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -59,6 +59,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
+| 1352C | [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | 1200 | binary search, math | [Sep/18/2024 09:46 PM](https://codeforces.com/contest/1352/submission/281752398) |
 | 466A | [Cheap Travel](https://codeforces.com/problemset/problem/466/A) | 1200 | implementation | [Sep/18/2024 09:25 PM](https://codeforces.com/contest/466/submission/281749725) |
 | 492B | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 1200 | binary search, implementation, math, sortings | [Sep/18/2024 09:16 PM](https://codeforces.com/contest/492/submission/281748495) |
 | 459A | [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A) | 1200 | implementation | [Sep/18/2024 10:09 AM](https://codeforces.com/contest/459/submission/281683169) |
