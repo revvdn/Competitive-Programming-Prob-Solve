@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 30 |
+| Codeforces | 31 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **47** |
+| **Total** | **48** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 9A | [Die Roll](https://codeforces.com/problemset/problem/9/A) | 800 | math, probabilities | [Sep/20/2024 10:34 AM](https://codeforces.com/contest/9/submission/281932070) |
 | 1712A | [Wonderful Permutation](https://codeforces.com/problemset/problem/1712/A) | 800 | greedy, implementation | [Sep/19/2024 01:28 PM](https://codeforces.com/contest/1712/submission/281820740) |
 | 1743A | [Password](https://codeforces.com/problemset/problem/1743/A) | 800 | brute force, combinatorics, implementation, math | [Sep/19/2024 09:14 AM](https://codeforces.com/contest/1743/submission/281804751) |
 | 281A | [Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | implementation, strings | [Sep/17/2024 09:02 PM](https://codeforces.com/contest/281/submission/281617780) |
