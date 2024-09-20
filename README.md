@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 31 |
+| Codeforces | 32 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **48** |
+| **Total** | **49** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -68,6 +68,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 492B | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 1200 | binary search, implementation, math, sortings | [Sep/18/2024 09:16 PM](https://codeforces.com/contest/492/submission/281748495) |
 | 459A | [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A) | 1200 | implementation | [Sep/18/2024 10:09 AM](https://codeforces.com/contest/459/submission/281683169) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) | 1200 | binary search, data structures, two pointers | [Aug/29/2024 04:25 PM](https://codeforces.com/contest/1006/submission/278613684) |
+| 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
