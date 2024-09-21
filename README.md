@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 36 |
+| Codeforces | 37 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **53** |
+| **Total** | **54** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -64,6 +64,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
+| 1294B | [Collecting Packages](https://codeforces.com/problemset/problem/1294/B) | 1200 | implementation, sortings | [Sep/21/2024 03:55 PM](https://codeforces.com/contest/1294/submission/282181744) |
 | 1454C | [Sequence Transformation](https://codeforces.com/problemset/problem/1454/C) | 1200 | greedy, implementation | [Sep/21/2024 03:54 PM](https://codeforces.com/contest/1454/submission/282181619) |
 | 1619C | [Wrong Addition](https://codeforces.com/problemset/problem/1619/C) | 1200 | implementation | [Sep/21/2024 03:53 PM](https://codeforces.com/contest/1619/submission/282181460) |
 | 1334A | [Level Statistics](https://codeforces.com/problemset/problem/1334/A) | 1200 | implementation, math | [Sep/19/2024 01:51 PM](https://codeforces.com/contest/1334/submission/281822864) |
