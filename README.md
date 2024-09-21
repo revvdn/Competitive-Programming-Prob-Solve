@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 34 |
+| Codeforces | 35 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **51** |
+| **Total** | **52** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -64,6 +64,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
+| 1619C | [Wrong Addition](https://codeforces.com/problemset/problem/1619/C) | 1200 | implementation | [Sep/21/2024 03:53 PM](https://codeforces.com/contest/1619/submission/282181460) |
 | 1334A | [Level Statistics](https://codeforces.com/problemset/problem/1334/A) | 1200 | implementation, math | [Sep/19/2024 01:51 PM](https://codeforces.com/contest/1334/submission/281822864) |
 | 1352C | [K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) | 1200 | binary search, math | [Sep/18/2024 09:46 PM](https://codeforces.com/contest/1352/submission/281752398) |
 | 466A | [Cheap Travel](https://codeforces.com/problemset/problem/466/A) | 1200 | implementation | [Sep/18/2024 09:25 PM](https://codeforces.com/contest/466/submission/281749725) |
