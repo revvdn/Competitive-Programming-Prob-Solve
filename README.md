@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 38 |
+| Codeforces | 39 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **55** |
+| **Total** | **56** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 1311A | [Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A) | 800 | greedy, implementation, math | [Sep/22/2024 01:17 PM](https://codeforces.com/contest/1311/submission/282428723) |
 | 9A | [Die Roll](https://codeforces.com/problemset/problem/9/A) | 800 | math, probabilities | [Sep/20/2024 10:34 AM](https://codeforces.com/contest/9/submission/281932070) |
 | 1712A | [Wonderful Permutation](https://codeforces.com/problemset/problem/1712/A) | 800 | greedy, implementation | [Sep/19/2024 01:28 PM](https://codeforces.com/contest/1712/submission/281820740) |
 | 1743A | [Password](https://codeforces.com/problemset/problem/1743/A) | 800 | brute force, combinatorics, implementation, math | [Sep/19/2024 09:14 AM](https://codeforces.com/contest/1743/submission/281804751) |
