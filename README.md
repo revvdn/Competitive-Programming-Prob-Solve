@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 43 |
+| Codeforces | 44 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **60** |
+| **Total** | **61** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -64,6 +64,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | 900 | implementation, strings | [Sep/17/2024 09:28 PM](https://codeforces.com/contest/96/submission/281621222) |
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
+| 939B | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1000 | implementation | [Sep/22/2024 03:59 PM](https://codeforces.com/contest/939/submission/282443002) |
 | 2002B | [Removals Game](https://codeforces.com/problemset/problem/2002/B) | 1000 | constructive algorithms, games | [Sep/22/2024 02:42 PM](https://codeforces.com/contest/2002/submission/282435257) |
 | 352A | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 1000 | brute force, implementation, math | [Sep/22/2024 01:49 PM](https://codeforces.com/contest/352/submission/282431585) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
