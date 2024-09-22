@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 41 |
+| Codeforces | 42 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **58** |
+| **Total** | **59** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -60,6 +60,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
+| 1606A | [AB Balance](https://codeforces.com/problemset/problem/1606/A) | 900 | strings | [Sep/22/2024 02:23 PM](https://codeforces.com/contest/1606/submission/282434013) |
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | 900 | implementation, strings | [Sep/17/2024 09:28 PM](https://codeforces.com/contest/96/submission/281621222) |
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
