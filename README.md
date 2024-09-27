@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 47 |
+| Codeforces | 48 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **64** |
+| **Total** | **65** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -86,4 +86,5 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
+| 1526B | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 1400 | dp, math, number theory | [Sep/27/2024 06:39 PM](https://codeforces.com/contest/1526/submission/283165912) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
