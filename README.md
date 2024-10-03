@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 50 |
+| Codeforces | 51 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **67** |
+| **Total** | **68** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 1926B | [Vlad and Shapes](https://codeforces.com/problemset/problem/1926/B) | 800 | geometry, implementation | [Oct/04/2024 03:47 AM](https://codeforces.com/contest/1926/submission/284234805) |
 | 791A | [Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | implementation | [Sep/24/2024 12:58 PM](https://codeforces.com/contest/791/submission/282720153) |
 | 1629B | [GCD Arrays](https://codeforces.com/problemset/problem/1629/B) | 800 | greedy, math, number theory | [Sep/22/2024 01:27 PM](https://codeforces.com/contest/1629/submission/282429602) |
 | 1311A | [Add Odd or Subtract Even](https://codeforces.com/problemset/problem/1311/A) | 800 | greedy, implementation, math | [Sep/22/2024 01:17 PM](https://codeforces.com/contest/1311/submission/282428723) |
