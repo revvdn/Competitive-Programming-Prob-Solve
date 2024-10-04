@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 52 |
+| Codeforces | 53 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **69** |
+| **Total** | **70** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -66,6 +66,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | 900 | implementation, strings | [Sep/17/2024 09:28 PM](https://codeforces.com/contest/96/submission/281621222) |
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
+| 1968C | [Assembly via Remainders](https://codeforces.com/problemset/problem/1968/C) | 1000 | constructive algorithms, number theory | [Oct/04/2024 01:10 PM](https://codeforces.com/contest/1968/submission/284264885) |
 | 1883C | [Raspberries](https://codeforces.com/problemset/problem/1883/C) | 1000 | dp, math | [Sep/26/2024 09:01 PM](https://codeforces.com/contest/1883/submission/283057132) |
 | 939B | [Hamster Farm](https://codeforces.com/problemset/problem/939/B) | 1000 | implementation | [Sep/22/2024 03:59 PM](https://codeforces.com/contest/939/submission/282443002) |
 | 2002B | [Removals Game](https://codeforces.com/problemset/problem/2002/B) | 1000 | constructive algorithms, games | [Sep/22/2024 02:42 PM](https://codeforces.com/contest/2002/submission/282435257) |
