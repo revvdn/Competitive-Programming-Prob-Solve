@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 54 |
+| Codeforces | 55 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **71** |
+| **Total** | **72** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -74,6 +74,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
+| 2020B | [Brightness Begins](https://codeforces.com/problemset/problem/2020/B) | 1200 | binary search, math | [Oct/08/2024 03:59 AM](https://codeforces.com/contest/2020/submission/284844354) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/problemset/problem/433/B) | 1200 | dp, implementation, sortings | [Oct/07/2024 09:01 AM](https://codeforces.com/contest/433/submission/284711298) |
 | 1713C | [Build Permutation](https://codeforces.com/problemset/problem/1713/C) | 1200 | constructive algorithms, dp, math | [Sep/27/2024 03:34 AM](https://codeforces.com/contest/1713/submission/283103112) |
 | 1294B | [Collecting Packages](https://codeforces.com/problemset/problem/1294/B) | 1200 | implementation, sortings | [Sep/21/2024 03:55 PM](https://codeforces.com/contest/1294/submission/282181744) |
