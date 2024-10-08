@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 61 |
+| Codeforces | 62 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **78** |
+| **Total** | **79** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 271A | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | 800 | brute force | [Oct/08/2024 09:23 PM](https://codeforces.com/contest/271/submission/284931223) |
 | 32B | [Borze](https://codeforces.com/problemset/problem/32/B) | 800 | expression parsing, implementation | [Oct/08/2024 09:10 PM](https://codeforces.com/contest/32/submission/284929131) |
 | 266B | [Queue at the School](https://codeforces.com/problemset/problem/266/B) | 800 | constructive algorithms, graph matchings, implementation, shortest paths | [Oct/08/2024 09:03 PM](https://codeforces.com/contest/266/submission/284927986) |
 | 1926B | [Vlad and Shapes](https://codeforces.com/problemset/problem/1926/B) | 800 | geometry, implementation | [Oct/04/2024 03:47 AM](https://codeforces.com/contest/1926/submission/284234805) |
