@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 55 |
+| Codeforces | 56 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **72** |
+| **Total** | **73** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -95,3 +95,4 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1526B | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 1400 | dp, math, number theory | [Sep/27/2024 06:39 PM](https://codeforces.com/contest/1526/submission/283165912) |
 | 1881E | [Block Sequence](https://codeforces.com/problemset/problem/1881/E) | 1500 | dp | [Oct/01/2024 04:21 PM](https://codeforces.com/contest/1881/submission/283874705) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
+| 785C | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | binary search, math | [Oct/08/2024 11:11 AM](https://codeforces.com/contest/785/submission/284863481) |
