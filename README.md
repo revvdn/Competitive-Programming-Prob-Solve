@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 62 |
+| Codeforces | 63 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **79** |
+| **Total** | **80** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -97,6 +97,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
 | 1918C | [XOR-distance](https://codeforces.com/problemset/problem/1918/C) | 1400 | bitmasks, greedy, implementation, math | [Oct/04/2024 07:33 AM](https://codeforces.com/contest/1918/submission/284242884) |
 | 1526B | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 1400 | dp, math, number theory | [Sep/27/2024 06:39 PM](https://codeforces.com/contest/1526/submission/283165912) |
+| 670D2 | [Magic Powder - 2](https://codeforces.com/problemset/problem/670/D2) | 1500 | binary search, implementation | [Oct/09/2024 10:22 AM](https://codeforces.com/contest/670/submission/284981508) |
 | 760B | [Frodo and pillows](https://codeforces.com/problemset/problem/760/B) | 1500 | binary search, greedy | [Oct/08/2024 02:08 PM](https://codeforces.com/contest/760/submission/284878625) |
 | 165B | [Burning Midnight Oil](https://codeforces.com/problemset/problem/165/B) | 1500 | binary search, implementation | [Oct/08/2024 01:14 PM](https://codeforces.com/contest/165/submission/284872982) |
 | 1881E | [Block Sequence](https://codeforces.com/problemset/problem/1881/E) | 1500 | dp | [Oct/01/2024 04:21 PM](https://codeforces.com/contest/1881/submission/283874705) |
