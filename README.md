@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 63 |
+| Codeforces | 64 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **80** |
+| **Total** | **81** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -102,4 +102,5 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 165B | [Burning Midnight Oil](https://codeforces.com/problemset/problem/165/B) | 1500 | binary search, implementation | [Oct/08/2024 01:14 PM](https://codeforces.com/contest/165/submission/284872982) |
 | 1881E | [Block Sequence](https://codeforces.com/problemset/problem/1881/E) | 1500 | dp | [Oct/01/2024 04:21 PM](https://codeforces.com/contest/1881/submission/283874705) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
+| 371C | [Hamburgers](https://codeforces.com/problemset/problem/371/C) | 1600 | binary search, brute force | [Oct/09/2024 10:41 AM](https://codeforces.com/contest/371/submission/284982613) |
 | 785C | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | binary search, math | [Oct/08/2024 11:11 AM](https://codeforces.com/contest/785/submission/284863481) |
