@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 71 |
+| Codeforces | 72 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **88** |
+| **Total** | **89** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -111,3 +111,4 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 785C | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | binary search, math | [Oct/08/2024 11:11 AM](https://codeforces.com/contest/785/submission/284863481) |
 | 1081D | [Maximum Distance](https://codeforces.com/problemset/problem/1081/D) | 1800 | dsu, graphs, shortest paths, sortings | [Oct/12/2024 11:51 AM](https://codeforces.com/contest/1081/submission/285403835) |
 | 1912K | [Kim's Quest](https://codeforces.com/problemset/problem/1912/K) | 1800 | bitmasks, combinatorics, dp | [Oct/11/2024 08:39 PM](https://codeforces.com/contest/1912/submission/285323405) |
+| 1012B | [Chemical table](https://codeforces.com/problemset/problem/1012/B) | 1900 | constructive algorithms, dfs and similar, dsu, graphs, matrices | [Oct/12/2024 01:30 PM](https://codeforces.com/contest/1012/submission/285413631) |
