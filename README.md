@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 72 |
+| Codeforces | 73 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **89** |
+| **Total** | **90** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -96,6 +96,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
+| 2008F | [Sakurako's Box](https://codeforces.com/problemset/problem/2008/F) | 1400 | combinatorics, math, number theory | [Oct/13/2024 10:01 AM](https://codeforces.com/contest/2008/submission/285572264) |
 | 505B | [Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B) | 1400 | dfs and similar, dp, dsu, graphs | [Oct/12/2024 12:39 PM](https://codeforces.com/contest/505/submission/285408202) |
 | 1918C | [XOR-distance](https://codeforces.com/problemset/problem/1918/C) | 1400 | bitmasks, greedy, implementation, math | [Oct/04/2024 07:33 AM](https://codeforces.com/contest/1918/submission/284242884) |
 | 1526B | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 1400 | dp, math, number theory | [Sep/27/2024 06:39 PM](https://codeforces.com/contest/1526/submission/283165912) |
