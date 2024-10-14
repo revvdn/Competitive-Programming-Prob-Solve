@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 77 |
+| Codeforces | 78 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **94** |
+| **Total** | **95** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2025A | [Two Screens](https://codeforces.com/problemset/problem/2025/A) | 800 | binary search, greedy, strings, two pointers | [Oct/14/2024 10:29 PM](https://codeforces.com/contest/2025/submission/285890068) |
 | 59A | [Word](https://codeforces.com/problemset/problem/59/A) | 800 | implementation, strings | [Oct/14/2024 09:03 PM](https://codeforces.com/contest/59/submission/285837383) |
 | 271A | [Beautiful Year](https://codeforces.com/problemset/problem/271/A) | 800 | brute force | [Oct/08/2024 09:23 PM](https://codeforces.com/contest/271/submission/284931223) |
 | 32B | [Borze](https://codeforces.com/problemset/problem/32/B) | 800 | expression parsing, implementation | [Oct/08/2024 09:10 PM](https://codeforces.com/contest/32/submission/284929131) |
