@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 83 |
+| Codeforces | 84 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **100** |
+| **Total** | **101** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -82,6 +82,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2002B | [Removals Game](https://codeforces.com/problemset/problem/2002/B) | 1000 | constructive algorithms, games | [Sep/22/2024 02:42 PM](https://codeforces.com/contest/2002/submission/282435257) |
 | 352A | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 1000 | brute force, implementation, math | [Sep/22/2024 01:49 PM](https://codeforces.com/contest/352/submission/282431585) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
+| 2014C | [Robin Hood in Town](https://codeforces.com/problemset/problem/2014/C) | 1100 | binary search, greedy, math | [Oct/19/2024 02:08 PM](https://codeforces.com/contest/2014/submission/286655344) |
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/problemset/problem/2025/B) | 1100 | combinatorics, dp, math | [Oct/14/2024 10:53 PM](https://codeforces.com/contest/2025/submission/285905594) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
