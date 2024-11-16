@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 87 |
+| Codeforces | 88 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **104** |
+| **Total** | **105** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2029A | [Set](https://codeforces.com/problemset/problem/2029/A) | 800 | greedy, math | [Nov/16/2024 08:18 PM](https://codeforces.com/contest/2029/submission/291799825) |
 | 361A | [Levko and Table](https://codeforces.com/problemset/problem/361/A) | 800 | constructive algorithms, implementation | [Oct/24/2024 11:07 AM](https://codeforces.com/contest/361/submission/287604617) |
 | 1814A | [Coins](https://codeforces.com/problemset/problem/1814/A) | 800 | implementation, math | [Oct/18/2024 08:49 AM](https://codeforces.com/contest/1814/submission/286461319) |
 | 1150A | [Stock Arbitraging](https://codeforces.com/problemset/problem/1150/A) | 800 | greedy, implementation | [Oct/17/2024 09:15 AM](https://codeforces.com/contest/1150/submission/286307789) |
