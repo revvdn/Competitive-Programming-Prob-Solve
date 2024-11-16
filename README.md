@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 88 |
+| Codeforces | 89 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **105** |
+| **Total** | **106** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -125,6 +125,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1957C | [How Does the Rook Move?](https://codeforces.com/problemset/problem/1957/C) | 1600 | combinatorics, dp, math | [Oct/11/2024 03:05 PM](https://codeforces.com/contest/1957/submission/285277560) |
 | 371C | [Hamburgers](https://codeforces.com/problemset/problem/371/C) | 1600 | binary search, brute force | [Oct/09/2024 10:41 AM](https://codeforces.com/contest/371/submission/284982613) |
 | 785C | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | binary search, math | [Oct/08/2024 11:11 AM](https://codeforces.com/contest/785/submission/284863481) |
+| 2029C | [New Rating](https://codeforces.com/problemset/problem/2029/C) | 1700 | binary search, data structures, dp, greedy | [Nov/16/2024 08:47 PM](https://codeforces.com/contest/2029/submission/291803897) |
 | 1081D | [Maximum Distance](https://codeforces.com/problemset/problem/1081/D) | 1800 | dsu, graphs, shortest paths, sortings | [Oct/12/2024 11:51 AM](https://codeforces.com/contest/1081/submission/285403835) |
 | 1912K | [Kim's Quest](https://codeforces.com/problemset/problem/1912/K) | 1800 | bitmasks, combinatorics, dp | [Oct/11/2024 08:39 PM](https://codeforces.com/contest/1912/submission/285323405) |
 | 1012B | [Chemical table](https://codeforces.com/problemset/problem/1012/B) | 1900 | constructive algorithms, dfs and similar, dsu, graphs, matrices | [Oct/12/2024 01:30 PM](https://codeforces.com/contest/1012/submission/285413631) |
