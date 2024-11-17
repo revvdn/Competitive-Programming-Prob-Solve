@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 91 |
+| Codeforces | 92 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **108** |
+| **Total** | **109** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2037B | [Intercepted Inputs](https://codeforces.com/problemset/problem/2037/B) | 800 | brute force, implementation | [Nov/17/2024 10:12 PM](https://codeforces.com/contest/2037/submission/291998908) |
 | 2037A | [Twice](https://codeforces.com/problemset/problem/2037/A) | 800 | implementation | [Nov/17/2024 09:59 PM](https://codeforces.com/contest/2037/submission/291983847) |
 | 2029A | [Set](https://codeforces.com/problemset/problem/2029/A) | 800 | greedy, math | [Nov/16/2024 08:18 PM](https://codeforces.com/contest/2029/submission/291799825) |
 | 361A | [Levko and Table](https://codeforces.com/problemset/problem/361/A) | 800 | constructive algorithms, implementation | [Oct/24/2024 11:07 AM](https://codeforces.com/contest/361/submission/287604617) |
