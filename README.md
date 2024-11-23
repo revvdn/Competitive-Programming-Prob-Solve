@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 95 |
+| Codeforces | 96 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **112** |
+| **Total** | **113** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -73,6 +73,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
+| 1057A | [Bmail Computer Network](https://codeforces.com/problemset/problem/1057/A) | 900 | *special, dfs and similar, trees | [Nov/23/2024 06:33 PM](https://codeforces.com/contest/1057/submission/292883861) |
 | 115A | [Party](https://codeforces.com/problemset/problem/115/A) | 900 | dfs and similar, graphs, trees | [Nov/23/2024 04:51 PM](https://codeforces.com/contest/115/submission/292873078) |
 | 275A | [Lights Out](https://codeforces.com/problemset/problem/275/A) | 900 | implementation | [Oct/14/2024 08:49 PM](https://codeforces.com/contest/275/submission/285835259) |
 | 1606A | [AB Balance](https://codeforces.com/problemset/problem/1606/A) | 900 | strings | [Sep/22/2024 02:23 PM](https://codeforces.com/contest/1606/submission/282434013) |
