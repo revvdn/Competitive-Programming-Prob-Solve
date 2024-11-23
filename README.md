@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 96 |
+| Codeforces | 97 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **113** |
+| **Total** | **114** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 1932A | [Thorns and Coins](https://codeforces.com/problemset/problem/1932/A) | 800 | dp, greedy, implementation | [Nov/23/2024 08:50 PM](https://codeforces.com/contest/1932/submission/292899816) |
 | 2037B | [Intercepted Inputs](https://codeforces.com/problemset/problem/2037/B) | 800 | brute force, implementation | [Nov/17/2024 10:12 PM](https://codeforces.com/contest/2037/submission/291998908) |
 | 2037A | [Twice](https://codeforces.com/problemset/problem/2037/A) | 800 | implementation | [Nov/17/2024 09:59 PM](https://codeforces.com/contest/2037/submission/291983847) |
 | 2029A | [Set](https://codeforces.com/problemset/problem/2029/A) | 800 | greedy, math | [Nov/16/2024 08:18 PM](https://codeforces.com/contest/2029/submission/291799825) |
