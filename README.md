@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 106 |
+| Codeforces | 107 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **123** |
+| **Total** | **124** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -117,6 +117,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 492B | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 1200 | binary search, implementation, math, sortings | [Sep/18/2024 09:16 PM](https://codeforces.com/contest/492/submission/281748495) |
 | 459A | [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A) | 1200 | implementation | [Sep/18/2024 10:09 AM](https://codeforces.com/contest/459/submission/281683169) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) | 1200 | binary search, data structures, two pointers | [Aug/29/2024 04:25 PM](https://codeforces.com/contest/1006/submission/278613684) |
+| 222B | [Cosmic Tables](https://codeforces.com/problemset/problem/222/B) | 1300 | data structures, implementation | [Jan/10/2025 09:16 AM](https://codeforces.com/contest/222/submission/300339198) |
 | 1879C | [Make it Alternating](https://codeforces.com/problemset/problem/1879/C) | 1300 | combinatorics, dp, greedy | [Oct/09/2024 09:36 PM](https://codeforces.com/contest/1879/submission/285045084) |
 | 1945D | [Seraphim the Owl](https://codeforces.com/problemset/problem/1945/D) | 1300 | dp, greedy | [Sep/27/2024 09:22 PM](https://codeforces.com/contest/1945/submission/283210318) |
 | 1352D | [Alice, Bob and Candies](https://codeforces.com/problemset/problem/1352/D) | 1300 | implementation | [Sep/21/2024 04:03 PM](https://codeforces.com/contest/1352/submission/282182802) |
