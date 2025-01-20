@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 113 |
+| Codeforces | 114 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **130** |
+| **Total** | **131** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 344A | [Magnets](https://codeforces.com/problemset/problem/344/A) | 800 | implementation | [Jan/20/2025 12:52 PM](https://codeforces.com/contest/344/submission/301953646) |
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | 800 | implementation | [Jan/20/2025 10:27 AM](https://codeforces.com/contest/136/submission/301942166) |
 | 200B | [Drinks](https://codeforces.com/problemset/problem/200/B) | 800 | implementation, math | [Jan/20/2025 09:09 AM](https://codeforces.com/contest/200/submission/301936098) |
 | 141A | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | 800 | implementation, sortings, strings | [Jan/20/2025 08:53 AM](https://codeforces.com/contest/141/submission/301935009) |
