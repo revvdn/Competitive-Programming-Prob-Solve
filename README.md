@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 110 |
+| Codeforces | 111 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **127** |
+| **Total** | **128** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 141A | [Amusing Joke](https://codeforces.com/problemset/problem/141/A) | 800 | implementation, sortings, strings | [Jan/20/2025 08:53 AM](https://codeforces.com/contest/141/submission/301935009) |
 | 110A | [Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | implementation | [Jan/20/2025 08:03 AM](https://codeforces.com/contest/110/submission/301931791) |
 | 432A | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | 800 | greedy, implementation, sortings | [Jan/20/2025 07:52 AM](https://codeforces.com/contest/432/submission/301931204) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | implementation | [Dec/30/2024 11:35 PM](https://codeforces.com/contest/228/submission/299091343) |
