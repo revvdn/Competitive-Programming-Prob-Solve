@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 108 |
+| Codeforces | 109 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **125** |
+| **Total** | **126** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 432A | [Choosing Teams](https://codeforces.com/problemset/problem/432/A) | 800 | greedy, implementation, sortings | [Jan/20/2025 07:52 AM](https://codeforces.com/contest/432/submission/301931204) |
 | 228A | [Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) | 800 | implementation | [Dec/30/2024 11:35 PM](https://codeforces.com/contest/228/submission/299091343) |
 | 2043A | [Coin Transformation](https://codeforces.com/problemset/problem/2043/A) | 800 | brute force, math | [Dec/28/2024 09:09 PM](https://codeforces.com/contest/2043/submission/298805003) |
 | 1923A | [Moving Chips](https://codeforces.com/problemset/problem/1923/A) | 800 | greedy, implementation | [Dec/08/2024 01:57 PM](https://codeforces.com/contest/1923/submission/295498025) |
