@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 118 |
+| Codeforces | 119 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **135** |
+| **Total** | **136** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -138,6 +138,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 505B | [Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B) | 1400 | dfs and similar, dp, dsu, graphs | [Oct/12/2024 12:39 PM](https://codeforces.com/contest/505/submission/285408202) |
 | 1918C | [XOR-distance](https://codeforces.com/problemset/problem/1918/C) | 1400 | bitmasks, greedy, implementation, math | [Oct/04/2024 07:33 AM](https://codeforces.com/contest/1918/submission/284242884) |
 | 1526B | [I Hate 1111](https://codeforces.com/problemset/problem/1526/B) | 1400 | dp, math, number theory | [Sep/27/2024 06:39 PM](https://codeforces.com/contest/1526/submission/283165912) |
+| 1391C | [Cyclic Permutations ](https://codeforces.com/problemset/problem/1391/C) | 1500 | combinatorics, dp, graphs, math | [Apr/10/2025 09:15 PM](https://codeforces.com/contest/1391/submission/314894234) |
 | 1325C | [Ehab and Path-etic MEXs](https://codeforces.com/problemset/problem/1325/C) | 1500 | constructive algorithms, dfs and similar, greedy, trees | [Nov/21/2024 08:42 PM](https://codeforces.com/contest/1325/submission/292630741) |
 | 1999F | [Expected Median](https://codeforces.com/problemset/problem/1999/F) | 1500 | combinatorics, math | [Oct/13/2024 11:16 AM](https://codeforces.com/contest/1999/submission/285576514) |
 | 1876B | [Effects of Anti Pimples](https://codeforces.com/problemset/problem/1876/B) | 1500 | combinatorics, number theory, sortings | [Oct/13/2024 10:44 AM](https://codeforces.com/contest/1876/submission/285574597) |
