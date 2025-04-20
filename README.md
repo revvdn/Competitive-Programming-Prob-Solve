@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 125 |
+| Codeforces | 126 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **142** |
+| **Total** | **143** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -137,6 +137,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
+| 180C | [Letter](https://codeforces.com/problemset/problem/180/C) | 1400 | dp | [Apr/20/2025 03:04 PM](https://codeforces.com/contest/180/submission/316351981) |
 | 1609C | [Complex Market Analysis](https://codeforces.com/problemset/problem/1609/C) | 1400 | binary search, dp, implementation, number theory, schedules, two pointers | [Oct/15/2024 09:21 PM](https://codeforces.com/contest/1609/submission/286080322) |
 | 2008F | [Sakurako's Box](https://codeforces.com/problemset/problem/2008/F) | 1400 | combinatorics, math, number theory | [Oct/13/2024 10:01 AM](https://codeforces.com/contest/2008/submission/285572264) |
 | 505B | [Mr. Kitayuta's Colorful Graph](https://codeforces.com/problemset/problem/505/B) | 1400 | dfs and similar, dp, dsu, graphs | [Oct/12/2024 12:39 PM](https://codeforces.com/contest/505/submission/285408202) |
