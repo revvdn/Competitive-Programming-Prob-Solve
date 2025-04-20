@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 123 |
+| Codeforces | 124 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **140** |
+| **Total** | **141** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -104,6 +104,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2002B | [Removals Game](https://codeforces.com/problemset/problem/2002/B) | 1000 | constructive algorithms, games | [Sep/22/2024 02:42 PM](https://codeforces.com/contest/2002/submission/282435257) |
 | 352A | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 1000 | brute force, implementation, math | [Sep/22/2024 01:49 PM](https://codeforces.com/contest/352/submission/282431585) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
+| 313B | [Ilya and Queries](https://codeforces.com/problemset/problem/313/B) | 1100 | dp, implementation | [Apr/20/2025 01:47 PM](https://codeforces.com/contest/313/submission/316343423) |
 | 287A | [IQ Test](https://codeforces.com/problemset/problem/287/A) | 1100 | brute force, implementation | [Apr/17/2025 09:37 AM](https://codeforces.com/contest/287/submission/315902840) |
 | 2043B | [Digits](https://codeforces.com/problemset/problem/2043/B) | 1100 | math, number theory | [Jan/03/2025 09:02 PM](https://codeforces.com/contest/2043/submission/299478651) |
 | 331C1 | [The Great Julya Calendar](https://codeforces.com/problemset/problem/331/C1) | 1100 | dp | [Nov/26/2024 06:48 PM](https://codeforces.com/contest/331/submission/293350607) |
