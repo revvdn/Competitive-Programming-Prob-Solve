@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 127 |
+| Codeforces | 128 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **144** |
+| **Total** | **145** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 1389A | [LCM Problem](https://codeforces.com/problemset/problem/1389/A) | 800 | constructive algorithms, greedy, math, number theory | [Apr/21/2025 08:50 PM](https://codeforces.com/contest/1389/submission/316517788) |
 | 2062A | [String](https://codeforces.com/problemset/problem/2062/A) | 800 | constructive algorithms, greedy, math, strings | [Jan/30/2025 11:32 AM](https://codeforces.com/contest/2062/submission/303598719) |
 | 344A | [Magnets](https://codeforces.com/problemset/problem/344/A) | 800 | implementation | [Jan/20/2025 12:52 PM](https://codeforces.com/contest/344/submission/301953646) |
 | 136A | [Presents](https://codeforces.com/problemset/problem/136/A) | 800 | implementation | [Jan/20/2025 10:27 AM](https://codeforces.com/contest/136/submission/301942166) |
