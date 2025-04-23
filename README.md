@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 132 |
+| Codeforces | 133 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **149** |
+| **Total** | **150** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -119,6 +119,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/problemset/problem/2025/B) | 1100 | combinatorics, dp, math | [Oct/14/2024 10:53 PM](https://codeforces.com/contest/2025/submission/285905594) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
+| 1433D | [Districts Connection](https://codeforces.com/problemset/problem/1433/D) | 1200 | constructive algorithms, dfs and similar | [Apr/23/2025 08:07 PM](https://codeforces.com/contest/1433/submission/316815506) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/problemset/problem/1514/B) | 1200 | bitmasks, combinatorics, math | [Dec/29/2024 08:10 PM](https://codeforces.com/contest/1514/submission/298967897) |
 | 1327B | [Princesses and Princes](https://codeforces.com/problemset/problem/1327/B) | 1200 | brute force, graphs, greedy | [Dec/29/2024 08:04 PM](https://codeforces.com/contest/1327/submission/298967393) |
 | 776B | [Sherlock and his girlfriend](https://codeforces.com/problemset/problem/776/B) | 1200 | constructive algorithms, number theory | [Nov/17/2024 02:40 PM](https://codeforces.com/contest/776/submission/291898450) |
