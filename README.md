@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 134 |
+| Codeforces | 135 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **151** |
+| **Total** | **152** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -168,6 +168,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1957C | [How Does the Rook Move?](https://codeforces.com/problemset/problem/1957/C) | 1600 | combinatorics, dp, math | [Oct/11/2024 03:05 PM](https://codeforces.com/contest/1957/submission/285277560) |
 | 371C | [Hamburgers](https://codeforces.com/problemset/problem/371/C) | 1600 | binary search, brute force | [Oct/09/2024 10:41 AM](https://codeforces.com/contest/371/submission/284982613) |
 | 785C | [Anton and Fairy Tale](https://codeforces.com/problemset/problem/785/C) | 1600 | binary search, math | [Oct/08/2024 11:11 AM](https://codeforces.com/contest/785/submission/284863481) |
+| 1611E1 | [Escape The Maze (easy version)](https://codeforces.com/problemset/problem/1611/E1) | 1700 | dfs and similar, greedy, shortest paths, trees, two pointers | [May/03/2025 02:11 PM](https://codeforces.com/contest/1611/submission/318186908) |
 | 2029C | [New Rating](https://codeforces.com/problemset/problem/2029/C) | 1700 | binary search, data structures, dp, greedy | [Nov/16/2024 08:47 PM](https://codeforces.com/contest/2029/submission/291803897) |
 | 1081D | [Maximum Distance](https://codeforces.com/problemset/problem/1081/D) | 1800 | dsu, graphs, shortest paths, sortings | [Oct/12/2024 11:51 AM](https://codeforces.com/contest/1081/submission/285403835) |
 | 1912K | [Kim's Quest](https://codeforces.com/problemset/problem/1912/K) | 1800 | bitmasks, combinatorics, dp | [Oct/11/2024 08:39 PM](https://codeforces.com/contest/1912/submission/285323405) |
