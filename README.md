@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 138 |
+| Codeforces | 139 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **155** |
+| **Total** | **156** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -147,6 +147,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
+| 1634B | [Fortune Telling](https://codeforces.com/problemset/problem/1634/B) | 1400 | bitmasks, math | [May/07/2025 08:53 PM](https://codeforces.com/contest/1634/submission/318736145) |
 | 1670C | [Where is the Pizza?](https://codeforces.com/problemset/problem/1670/C) | 1400 | data structures, dfs and similar, dsu, graphs, implementation, math | [May/04/2025 09:00 PM](https://codeforces.com/contest/1670/submission/318339853) |
 | 180C | [Letter](https://codeforces.com/problemset/problem/180/C) | 1400 | dp | [Apr/20/2025 03:04 PM](https://codeforces.com/contest/180/submission/316351981) |
 | 1609C | [Complex Market Analysis](https://codeforces.com/problemset/problem/1609/C) | 1400 | binary search, dp, implementation, number theory, schedules, two pointers | [Oct/15/2024 09:21 PM](https://codeforces.com/contest/1609/submission/286080322) |
