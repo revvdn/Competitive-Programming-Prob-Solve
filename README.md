@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 141 |
+| Codeforces | 142 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **158** |
+| **Total** | **159** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 61A | [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | 800 | implementation | [May/14/2025 04:32 AM](https://codeforces.com/contest/61/submission/319571621) |
 | 80A | [Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) | 800 | brute force | [May/14/2025 04:26 AM](https://codeforces.com/contest/80/submission/319571290) |
 | 266A | [Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | implementation | [May/14/2025 03:56 AM](https://codeforces.com/contest/266/submission/319569640) |
 | 4A | [Watermelon](https://codeforces.com/problemset/problem/4/A) | 800 | brute force, math | [Apr/30/2025 08:43 PM](https://codeforces.com/contest/4/submission/317846338) |
