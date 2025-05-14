@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 144 |
+| Codeforces | 145 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **161** |
+| **Total** | **162** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -181,6 +181,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2029C | [New Rating](https://codeforces.com/problemset/problem/2029/C) | 1700 | binary search, data structures, dp, greedy | [Nov/16/2024 08:47 PM](https://codeforces.com/contest/2029/submission/291803897) |
 | 1081D | [Maximum Distance](https://codeforces.com/problemset/problem/1081/D) | 1800 | dsu, graphs, shortest paths, sortings | [Oct/12/2024 11:51 AM](https://codeforces.com/contest/1081/submission/285403835) |
 | 1912K | [Kim's Quest](https://codeforces.com/problemset/problem/1912/K) | 1800 | bitmasks, combinatorics, dp | [Oct/11/2024 08:39 PM](https://codeforces.com/contest/1912/submission/285323405) |
+| 61E | [Enemy is weak](https://codeforces.com/problemset/problem/61/E) | 1900 | data structures, trees | [May/14/2025 10:53 AM](https://codeforces.com/contest/61/submission/319585769) |
 | 1012B | [Chemical table](https://codeforces.com/problemset/problem/1012/B) | 1900 | constructive algorithms, dfs and similar, dsu, graphs, matrices | [Oct/12/2024 01:30 PM](https://codeforces.com/contest/1012/submission/285413631) |
 | 2B | [The least round way](https://codeforces.com/problemset/problem/2/B) | 2000 | dp, math | [Jan/15/2025 03:42 PM](https://codeforces.com/contest/2/submission/301073056) |
 | 1486D | [Max Median](https://codeforces.com/problemset/problem/1486/D) | 2100 | binary search, data structures, dp | [Feb/16/2025 02:00 PM](https://codeforces.com/contest/1486/submission/306291935) |
