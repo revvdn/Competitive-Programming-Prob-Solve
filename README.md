@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 151 |
+| Codeforces | 152 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **168** |
+| **Total** | **169** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -103,6 +103,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | 900 | implementation, strings | [Sep/17/2024 09:28 PM](https://codeforces.com/contest/96/submission/281621222) |
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
+| 165A | [Supercentral Point](https://codeforces.com/problemset/problem/165/A) | 1000 | implementation | [May/21/2025 09:13 AM](https://codeforces.com/contest/165/submission/320579394) |
 | 450A | [Jzzhu and Children](https://codeforces.com/problemset/problem/450/A) | 1000 | implementation | [May/18/2025 08:30 PM](https://codeforces.com/contest/450/submission/320240325) |
 | 272A | [Dima and Friends](https://codeforces.com/problemset/problem/272/A) | 1000 | implementation, math | [May/14/2025 08:48 PM](https://codeforces.com/contest/272/submission/319651549) |
 | 1051B | [Relatively Prime Pairs](https://codeforces.com/problemset/problem/1051/B) | 1000 | greedy, math, number theory | [Apr/22/2025 08:32 PM](https://codeforces.com/contest/1051/submission/316689467) |
