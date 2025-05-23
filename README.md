@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 154 |
+| Codeforces | 155 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **171** |
+| **Total** | **172** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -122,6 +122,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2002B | [Removals Game](https://codeforces.com/problemset/problem/2002/B) | 1000 | constructive algorithms, games | [Sep/22/2024 02:42 PM](https://codeforces.com/contest/2002/submission/282435257) |
 | 352A | [Jeff and Digits](https://codeforces.com/problemset/problem/352/A) | 1000 | brute force, implementation, math | [Sep/22/2024 01:49 PM](https://codeforces.com/contest/352/submission/282431585) |
 | 1849B | [Monsters](https://codeforces.com/problemset/problem/1849/B) | 1000 | greedy, math, sortings | [Aug/29/2024 01:39 PM](https://codeforces.com/contest/1849/submission/278596771) |
+| 224A | [Parallelepiped](https://codeforces.com/problemset/problem/224/A) | 1100 | brute force, geometry, math | [May/23/2025 07:49 AM](https://codeforces.com/contest/224/submission/320836401) |
 | 227B | [Effective Approach](https://codeforces.com/problemset/problem/227/B) | 1100 | implementation | [May/14/2025 11:50 AM](https://codeforces.com/contest/227/submission/319589383) |
 | 313B | [Ilya and Queries](https://codeforces.com/problemset/problem/313/B) | 1100 | dp, implementation | [Apr/20/2025 01:47 PM](https://codeforces.com/contest/313/submission/316343423) |
 | 287A | [IQ Test](https://codeforces.com/problemset/problem/287/A) | 1100 | brute force, implementation | [Apr/17/2025 09:37 AM](https://codeforces.com/contest/287/submission/315902840) |
