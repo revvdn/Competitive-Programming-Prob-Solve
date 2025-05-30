@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 159 |
+| Codeforces | 160 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **176** |
+| **Total** | **177** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -151,6 +151,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 492B | [Vanya and Lanterns](https://codeforces.com/problemset/problem/492/B) | 1200 | binary search, implementation, math, sortings | [Sep/18/2024 09:16 PM](https://codeforces.com/contest/492/submission/281748495) |
 | 459A | [Pashmak and Garden](https://codeforces.com/problemset/problem/459/A) | 1200 | implementation | [Sep/18/2024 10:09 AM](https://codeforces.com/contest/459/submission/281683169) |
 | 1006C | [Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) | 1200 | binary search, data structures, two pointers | [Aug/29/2024 04:25 PM](https://codeforces.com/contest/1006/submission/278613684) |
+| 893C | [Rumor](https://codeforces.com/problemset/problem/893/C) | 1300 | dfs and similar, graphs, greedy | [May/30/2025 08:27 PM](https://codeforces.com/contest/893/submission/322058454) |
 | 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/problemset/problem/862/B) | 1300 | dfs and similar, graphs, trees | [May/30/2025 08:11 PM](https://codeforces.com/contest/862/submission/322056510) |
 | 2025C | [New Game](https://codeforces.com/problemset/problem/2025/C) | 1300 | binary search, brute force, greedy, implementation, sortings, two pointers | [May/26/2025 11:50 AM](https://codeforces.com/contest/2025/submission/321320016) |
 | 1669H | [Maximal AND](https://codeforces.com/problemset/problem/1669/H) | 1300 | bitmasks, greedy, math | [May/06/2025 08:18 PM](https://codeforces.com/contest/1669/submission/318627937) |
