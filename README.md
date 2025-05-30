@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 160 |
+| Codeforces | 161 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **177** |
+| **Total** | **178** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -132,6 +132,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 2025B | [Binomial Coefficients, Kind Of](https://codeforces.com/problemset/problem/2025/B) | 1100 | combinatorics, dp, math | [Oct/14/2024 10:53 PM](https://codeforces.com/contest/2025/submission/285905594) |
 | 1873E | [Building an Aquarium](https://codeforces.com/problemset/problem/1873/E) | 1100 | binary search, sortings | [Sep/21/2024 03:46 PM](https://codeforces.com/contest/1873/submission/282180619) |
 | 706B | [Interesting drink](https://codeforces.com/problemset/problem/706/B) | 1100 | binary search, dp, implementation | [Sep/21/2024 03:43 PM](https://codeforces.com/contest/706/submission/282180304) |
+| 902B | [Coloring a Tree](https://codeforces.com/problemset/problem/902/B) | 1200 | dfs and similar, dsu, greedy | [May/30/2025 08:39 PM](https://codeforces.com/contest/902/submission/322060041) |
 | 474B | [Worms](https://codeforces.com/problemset/problem/474/B) | 1200 | binary search, implementation | [May/27/2025 08:05 PM](https://codeforces.com/contest/474/submission/321650804) |
 | 1613C | [Poisoned Dagger](https://codeforces.com/problemset/problem/1613/C) | 1200 | binary search | [May/06/2025 07:56 PM](https://codeforces.com/contest/1613/submission/318625304) |
 | 1433D | [Districts Connection](https://codeforces.com/problemset/problem/1433/D) | 1200 | constructive algorithms, dfs and similar | [Apr/23/2025 08:07 PM](https://codeforces.com/contest/1433/submission/316815506) |
