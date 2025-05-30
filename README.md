@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 161 |
+| Codeforces | 162 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **178** |
+| **Total** | **179** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -186,6 +186,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 165B | [Burning Midnight Oil](https://codeforces.com/problemset/problem/165/B) | 1500 | binary search, implementation | [Oct/08/2024 01:14 PM](https://codeforces.com/contest/165/submission/284872982) |
 | 1881E | [Block Sequence](https://codeforces.com/problemset/problem/1881/E) | 1500 | dp | [Oct/01/2024 04:21 PM](https://codeforces.com/contest/1881/submission/283874705) |
 | 659D | [Bicycle Race](https://codeforces.com/problemset/problem/659/D) | 1500 | geometry, implementation, math | [Sep/01/2024 01:23 PM](https://codeforces.com/contest/659/submission/279016031) |
+| 780C | [Andryusha and Colored Balloons](https://codeforces.com/problemset/problem/780/C) | 1600 | dfs and similar, graphs, greedy, trees | [May/30/2025 09:07 PM](https://codeforces.com/contest/780/submission/322063542) |
 | 1056D | [Decorate Apple Tree](https://codeforces.com/problemset/problem/1056/D) | 1600 | constructive algorithms, dfs and similar, dp, graphs, greedy, sortings, trees | [Apr/19/2025 02:35 PM](https://codeforces.com/contest/1056/submission/316189192) |
 | 1526C2 | [Potions (Hard Version)](https://codeforces.com/problemset/problem/1526/C2) | 1600 | data structures, greedy | [Nov/09/2024 07:45 PM](https://codeforces.com/contest/1526/submission/290692703) |
 | 1957C | [How Does the Rook Move?](https://codeforces.com/problemset/problem/1957/C) | 1600 | combinatorics, dp, math | [Oct/11/2024 03:05 PM](https://codeforces.com/contest/1957/submission/285277560) |
