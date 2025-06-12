@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 163 |
+| Codeforces | 164 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **180** |
+| **Total** | **181** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 148A | [Insomnia cure](https://codeforces.com/problemset/problem/148/A) | 800 | constructive algorithms, implementation, math | [Jun/12/2025 01:51 PM](https://codeforces.com/contest/148/submission/323992129) |
 | 144A | [Arrival of the General](https://codeforces.com/problemset/problem/144/A) | 800 | implementation | [May/14/2025 08:17 AM](https://codeforces.com/contest/144/submission/319578329) |
 | 233A | [Perfect Permutation](https://codeforces.com/problemset/problem/233/A) | 800 | implementation, math | [May/14/2025 07:58 AM](https://codeforces.com/contest/233/submission/319577641) |
 | 61A | [Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) | 800 | implementation | [May/14/2025 04:32 AM](https://codeforces.com/contest/61/submission/319571621) |
