@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 168 |
+| Codeforces | 169 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **185** |
+| **Total** | **186** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -98,6 +98,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
+| 133A | [HQ9+](https://codeforces.com/problemset/problem/133/A) | 900 | implementation | [Jun/12/2025 06:08 PM](https://codeforces.com/contest/133/submission/324023253) |
 | 1291A | [Even But Not Even](https://codeforces.com/problemset/problem/1291/A) | 900 | greedy, math, strings | [Apr/22/2025 08:17 PM](https://codeforces.com/contest/1291/submission/316687540) |
 | 2062B | [Clockwork](https://codeforces.com/problemset/problem/2062/B) | 900 | greedy, math | [Jan/30/2025 11:59 AM](https://codeforces.com/contest/2062/submission/303600389) |
 | 580A | [Kefa and First Steps](https://codeforces.com/problemset/problem/580/A) | 900 | brute force, dp, implementation | [Nov/23/2024 09:33 PM](https://codeforces.com/contest/580/submission/292905246) |
