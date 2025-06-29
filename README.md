@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 169 |
+| Codeforces | 170 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **186** |
+| **Total** | **187** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -207,5 +207,6 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 961E | [Tufurama](https://codeforces.com/problemset/problem/961/E) | 1900 | data structures | [May/15/2025 12:01 PM](https://codeforces.com/contest/961/submission/319717217) |
 | 61E | [Enemy is weak](https://codeforces.com/problemset/problem/61/E) | 1900 | data structures, trees | [May/14/2025 10:53 AM](https://codeforces.com/contest/61/submission/319585769) |
 | 1012B | [Chemical table](https://codeforces.com/problemset/problem/1012/B) | 1900 | constructive algorithms, dfs and similar, dsu, graphs, matrices | [Oct/12/2024 01:30 PM](https://codeforces.com/contest/1012/submission/285413631) |
+| 2114F | [Small Operations](https://codeforces.com/problemset/problem/2114/F) | 2000 | binary search, brute force, dfs and similar, dp, math, number theory, sortings | [Jun/29/2025 01:46 PM](https://codeforces.com/contest/2114/submission/326486569) |
 | 2B | [The least round way](https://codeforces.com/problemset/problem/2/B) | 2000 | dp, math | [Jan/15/2025 03:42 PM](https://codeforces.com/contest/2/submission/301073056) |
 | 1486D | [Max Median](https://codeforces.com/problemset/problem/1486/D) | 2100 | binary search, data structures, dp | [Feb/16/2025 02:00 PM](https://codeforces.com/contest/1486/submission/306291935) |
