@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 170 |
+| Codeforces | 171 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **187** |
+| **Total** | **188** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | # | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2126A | [Only One Digit](https://codeforces.com/problemset/problem/2126/A) | 800 | brute force, implementation, math | [Jul/18/2025 09:50 AM](https://codeforces.com/contest/2126/submission/329567627) |
 | 104A | [Blackjack](https://codeforces.com/problemset/problem/104/A) | 800 | implementation | [Jun/12/2025 02:51 PM](https://codeforces.com/contest/104/submission/323999568) |
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | 800 | implementation | [Jun/12/2025 02:39 PM](https://codeforces.com/contest/116/submission/323997956) |
 | 155A | [I_love_\%username\%](https://codeforces.com/problemset/problem/155/A) | 800 | brute force | [Jun/12/2025 02:27 PM](https://codeforces.com/contest/155/submission/323996635) |
