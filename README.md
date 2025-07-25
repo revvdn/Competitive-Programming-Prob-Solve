@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 171 |
+| Codeforces | 172 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **188** |
+| **Total** | **189** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 151A | [Soft Drinking](https://codeforces.com/problemset/problem/151/A) | 800 | implementation, math | [Jul/25/2025 07:42 PM](https://codeforces.com/contest/151/submission/330811622) |
 | 2126A | [Only One Digit](https://codeforces.com/problemset/problem/2126/A) | 800 | brute force, implementation, math | [Jul/18/2025 09:50 AM](https://codeforces.com/contest/2126/submission/329567627) |
 | 104A | [Blackjack](https://codeforces.com/problemset/problem/104/A) | 800 | implementation | [Jun/12/2025 02:51 PM](https://codeforces.com/contest/104/submission/323999568) |
 | 116A | [Tram](https://codeforces.com/problemset/problem/116/A) | 800 | implementation | [Jun/12/2025 02:39 PM](https://codeforces.com/contest/116/submission/323997956) |
