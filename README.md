@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 180 |
+| Codeforces | 181 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **197** |
+| **Total** | **198** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -118,6 +118,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 96A | [Football](https://codeforces.com/problemset/problem/96/A) | 900 | implementation, strings | [Sep/17/2024 09:28 PM](https://codeforces.com/contest/96/submission/281621222) |
 | 1896B | [AB Flipping](https://codeforces.com/problemset/problem/1896/B) | 900 | greedy, strings, two pointers | [Sep/13/2024 09:56 AM](https://codeforces.com/contest/1896/submission/280928551) |
 | 1833B | [Restore the Weather](https://codeforces.com/problemset/problem/1833/B) | 900 | greedy, sortings | [Aug/29/2024 02:02 PM](https://codeforces.com/contest/1833/submission/278598856) |
+| 1927C | [Choose the Different Ones!](https://codeforces.com/problemset/problem/1927/C) | 1000 | brute force, greedy, math | [Oct/18/2025 08:35 PM](https://codeforces.com/contest/1927/submission/344505056) |
 | 43A | [Football](https://codeforces.com/problemset/problem/43/A) | 1000 | strings | [Jul/30/2025 08:26 PM](https://codeforces.com/contest/43/submission/331597907) |
 | 1931C | [Make Equal Again](https://codeforces.com/problemset/problem/1931/C) | 1000 | brute force, greedy, math | [May/22/2025 07:50 PM](https://codeforces.com/contest/1931/submission/320776218) |
 | 139A | [Petr and Book](https://codeforces.com/problemset/problem/139/A) | 1000 | implementation | [May/21/2025 09:24 AM](https://codeforces.com/contest/139/submission/320579967) |
