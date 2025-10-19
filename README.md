@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 182 |
+| Codeforces | 183 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **199** |
+| **Total** | **200** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -182,6 +182,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1955C | [Inhabitant of the Deep Sea](https://codeforces.com/problemset/problem/1955/C) | 1300 | greedy, implementation, math | [Sep/21/2024 05:46 AM](https://codeforces.com/contest/1955/submission/282135529) |
 | 451B | [Sort the Array](https://codeforces.com/problemset/problem/451/B) | 1300 | implementation, sortings | [Sep/18/2024 10:41 AM](https://codeforces.com/contest/451/submission/281685197) |
 | 25A | [IQ test](https://codeforces.com/problemset/problem/25/A) | 1300 | brute force | [Sep/17/2024 10:02 PM](https://codeforces.com/contest/25/submission/281626794) |
+| 1927E | [Klever Permutation](https://codeforces.com/problemset/problem/1927/E) | 1400 | constructive algorithms, math, two pointers | [Oct/19/2025 11:19 AM](https://codeforces.com/contest/1927/submission/344582858) |
 | 277A | [Learning Languages](https://codeforces.com/problemset/problem/277/A) | 1400 | dfs and similar, dsu | [Jun/01/2025 09:47 AM](https://codeforces.com/contest/277/submission/322332874) |
 | 1893A | [Anonymous Informant](https://codeforces.com/problemset/problem/1893/A) | 1400 | brute force, dfs and similar, graphs, implementation | [May/23/2025 10:20 AM](https://codeforces.com/contest/1893/submission/320844192) |
 | 1634B | [Fortune Telling](https://codeforces.com/problemset/problem/1634/B) | 1400 | bitmasks, math | [May/07/2025 08:53 PM](https://codeforces.com/contest/1634/submission/318736145) |
