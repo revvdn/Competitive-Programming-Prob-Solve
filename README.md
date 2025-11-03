@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 183 |
+| Codeforces | 184 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **200** |
+| **Total** | **201** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 2167A | [Square?](https://codeforces.com/problemset/problem/2167/A) | 800 | math, sortings | [Nov/03/2025 08:36 AM](https://codeforces.com/contest/2167/submission/347180869) |
 | 1927A | [Make it White](https://codeforces.com/problemset/problem/1927/A) | 800 | greedy, strings | [Oct/17/2025 10:55 AM](https://codeforces.com/contest/1927/submission/344115805) |
 | 41A | [Translation](https://codeforces.com/problemset/problem/41/A) | 800 | implementation, strings | [Jul/30/2025 08:09 PM](https://codeforces.com/contest/41/submission/331595534) |
 | 34A | [Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) | 800 | implementation | [Jul/25/2025 07:56 PM](https://codeforces.com/contest/34/submission/330813974) |
