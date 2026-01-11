@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 188 |
+| Codeforces | 189 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **205** |
+| **Total** | **206** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -107,6 +107,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
+| 318A | [Even Odds](https://codeforces.com/problemset/problem/318/A) | 900 | math | [Jan/11/2026 09:07 PM](https://codeforces.com/contest/318/submission/357337164) |
 | 1927B | [Following the String](https://codeforces.com/problemset/problem/1927/B) | 900 | constructive algorithms, greedy, strings | [Oct/17/2025 11:07 AM](https://codeforces.com/contest/1927/submission/344116473) |
 | 320A | [Magic Numbers](https://codeforces.com/problemset/problem/320/A) | 900 | brute force, greedy | [Jul/30/2025 08:03 PM](https://codeforces.com/contest/320/submission/331594806) |
 | 199A | [Hexadecimal's theorem](https://codeforces.com/problemset/problem/199/A) | 900 | brute force, constructive algorithms, implementation, number theory | [Jul/25/2025 08:58 PM](https://codeforces.com/contest/199/submission/330823210) |
