@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 191 |
+| Codeforces | 192 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **208** |
+| **Total** | **209** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -40,6 +40,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 
 | #   | Title | Rating | Tags | Submission |
 | --- | ----- | ------ | ---- | ---------- |
+| 1996B | [Scale](https://codeforces.com/problemset/problem/1996/B) | 800 | greedy, implementation | [Mar/02/2026 07:30 AM](https://codeforces.com/contest/1996/submission/365025532) |
 | 2195A | [Sieve of Erato67henes](https://codeforces.com/problemset/problem/2195/A) | 800 | math, number theory | [Feb/15/2026 10:38 PM](https://codeforces.com/contest/2195/submission/363131466) |
 | 2180A | [Carnival Wheel](https://codeforces.com/problemset/problem/2180/A) | 800 | brute force, number theory | [Dec/20/2025 09:48 PM](https://codeforces.com/contest/2180/submission/354331093) |
 | 2146A | [Equal Occurrences](https://codeforces.com/problemset/problem/2146/A) | 800 | brute force, greedy, implementation | [Nov/25/2025 01:21 PM](https://codeforces.com/contest/2146/submission/350567390) |
