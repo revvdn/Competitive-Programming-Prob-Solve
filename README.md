@@ -20,10 +20,10 @@ A structured repository containing solutions to various competitive programming 
 ## Progress Summary
 | Platform | Problems Solved |
 | -------- | --------------- |
-| Codeforces | 196 |
+| Codeforces | 197 |
 | CSES | 15 |
 | AtCoder | 2 |
-| **Total** | **213** |
+| **Total** | **214** |
 
 ## Topics Covered
 - Greedy Algorithms
@@ -110,6 +110,7 @@ This is a personal repository for tracking progress. Feel free to explore the so
 | 1686B | [Odd Subarrays](https://codeforces.com/problemset/problem/1686/B) | 800 | dp, greedy | [Sep/02/2024 09:11 AM](https://codeforces.com/contest/1686/submission/279270030) |
 | 2000B | [Seating in a Bus](https://codeforces.com/problemset/problem/2000/B) | 800 | two pointers | [Aug/21/2024 02:07 PM](https://codeforces.com/contest/2000/submission/277483409) |
 | 2000A | [Primary Task](https://codeforces.com/problemset/problem/2000/A) | 800 | implementation, math, strings | [Aug/21/2024 01:03 PM](https://codeforces.com/contest/2000/submission/277476732) |
+| 415A | [Mashmokh and Lights](https://codeforces.com/problemset/problem/415/A) | 900 | implementation | [Mar/06/2026 09:12 PM](https://codeforces.com/contest/415/submission/365607622) |
 | 1990A | [Submission Bait](https://codeforces.com/problemset/problem/1990/A) | 900 | brute force, games, greedy, sortings | [Mar/03/2026 07:46 AM](https://codeforces.com/contest/1990/submission/365156431) |
 | 2195B | [Heapify 1](https://codeforces.com/problemset/problem/2195/B) | 900 | implementation, sortings | [Feb/15/2026 10:23 PM](https://codeforces.com/contest/2195/submission/363113252) |
 | 318A | [Even Odds](https://codeforces.com/problemset/problem/318/A) | 900 | math | [Jan/11/2026 09:07 PM](https://codeforces.com/contest/318/submission/357337164) |
