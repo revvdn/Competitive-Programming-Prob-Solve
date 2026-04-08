@@ -1,6 +1,9 @@
 #include<iostream>
 #include<algorithm>
 
+//i was put the wrong commit m (actually is 40 but i put 30 XD)
+int decay;
+
 const int MAXN = 2e5+5;
 int pre_num[MAXN];
 

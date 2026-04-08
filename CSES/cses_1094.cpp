@@ -1,5 +1,8 @@
 #include<iostream>
 
+//i was put the wrong commit m (actually is 40 but i put 30 XD)
+int decay;
+
 int main ()
 {
     int n; std::cin >> n;
