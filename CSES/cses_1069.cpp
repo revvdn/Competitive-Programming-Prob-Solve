@@ -1,6 +1,9 @@
 #include<iostream>
 #include<string.h>
 
+//i was put the wrong commit m (actually is 40 but i put 30 XD)
+int decay;
+
 int main ()
 {
     std::string s; std::cin >> s;
