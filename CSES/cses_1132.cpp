@@ -7,13 +7,14 @@ Solution link (+ verdict) = https://cses.fi/problemset/result/16812779/
 Code Link = https://cses.fi/paste/fc07e3be4860ae731008aeb/
 */
 
-#include<bits/stdc++.h>
-using namespace std;
+#include<iostream>
+#include<vector>
+#include<algorithm>
 
 const int MAXN = 2e5+5;
 
-vector<int> adj[MAXN];
-int max_d = -1, far_node = 0;
+std::vector<int> adj[MAXN]; 
+int max_d = -1, far_node = 0; 
 int dp[MAXN][2];
 
 void dfs(int n, int p, int d, int dp_state) {
@@ -32,9 +33,11 @@ void dfs(int n, int p, int d, int dp_state) {
 
 int main ()
 {
-    int n; cin >> n;
-    for (int i=0; i<n-1; i++) {
-        int u, v; cin >> u >> v;
+    int n; std::cin >> n;
+
+    for (int i = 0; i < n-1; i++) {
+        int u, v; std::cin >> u >> v;
+
         adj[u].push_back(v);
         adj[v].push_back(u);
     }
@@ -47,7 +50,7 @@ int main ()
     dfs(far_node, 0, 0, 1);
     
     for (int i = 1; i<=n; i++) {
-        cout << max(dp[i][0], dp[i][1]) << " ";
+        std::cout << std::max(dp[i][0], dp[i][1]) << " ";
     }
     return 0;
 }
