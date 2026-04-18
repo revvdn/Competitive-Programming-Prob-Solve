@@ -6,7 +6,7 @@ int main ()
 {
     int n; std::cin >> n;
     
-    ll sum = n * (n + 1) / 2;
+    ll sum = (ll)n * (ll)(n + 1) / 2;
     ll par_sum = sum / 2;
     
     if (par_sum * 2 != sum) {
