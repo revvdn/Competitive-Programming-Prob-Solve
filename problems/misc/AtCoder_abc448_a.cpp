@@ -1,0 +1,25 @@
+/*
+Problem: abc448_a
+Platform: AtCoder
+Link: unknown
+Difficulty: unknown
+Topic: greedy
+
+Approach:
+* unknown
+
+Time Complexity: unknown
+*/
+#include <bits/stdc++.h>
+using namespace std;
+
+int main ()
+{
+    int n,x; cin >> n >> x;
+    for (int i=0; i<n; i++) {
+        int a; cin >> a;
+        if (a < x) cout << "1\n", x = a;
+        else cout << "0\n";
+    }
+    return 0;
+}
