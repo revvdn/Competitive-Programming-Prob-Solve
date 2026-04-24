@@ -29,5 +29,5 @@
 | Trailing Zeros | CSES | introductory | introductory | [CSES_1618.cpp](./problems/cses/introductory/CSES_1618.cpp) |
 | Planets Queries I | CSES | graph | graph | [CSES_1750.cpp](./problems/cses/graph/CSES_1750.cpp) |
 | Coin Piles | CSES | introductory | introductory | [CSES_1754.cpp](./problems/cses/introductory/CSES_1754.cpp) |
-| abc448_a | AtCoder | greedy | unknown | [AtCoder_abc448_a.cpp](./problems/misc/AtCoder_abc448_a.cpp) |
-| abc448_b | AtCoder | greedy | unknown | [AtCoder_abc448_b.cpp](./problems/misc/AtCoder_abc448_b.cpp) |
+| abc448_a | AtCoder | greedy | unknown | [AtCoder_abc448_a.cpp](./problems/atcoder/AtCoder_abc448_a.cpp) |
+| abc448_b | AtCoder | greedy | unknown | [AtCoder_abc448_b.cpp](./problems/atcoder/AtCoder_abc448_b.cpp) |
