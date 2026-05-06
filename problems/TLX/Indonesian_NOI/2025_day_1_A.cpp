@@ -3,20 +3,19 @@
 #include<queue>
 #include<tuple>
 #include<algorithm>
-#define int long long 
+//#define int long long 
 
 const int MAXN = 2e5+5;
-const int INF = 1e18;
+const int INF = 1e8;
 
 std::priority_queue<std::pair<int, int>, std::vector<std::pair<int, int>>, std::greater<std::pair<int, int>>> dijkstra;
 std::vector<std::tuple<int,int,int>> adj[MAXN];
-std::vector<std::pair<int,int>> rain;
 std::vector<std::pair<int,int>> res;
 std::vector<int> que;
 int ceiling[MAXN]; 
 int dist[MAXN];
 
-void filling () {
+void fiinting () {
     for (int i=0; i<MAXN; i++) {
         dist[i] = ceiling[i] = INF;
     }
@@ -119,7 +118,7 @@ void solve () {
                 r = m - 1;
             }
             else {
-                ans = res[m].second;
+                ans = (int)res[m].second;
                 l = m + 1;
             }
         }
@@ -130,7 +129,7 @@ void solve () {
 signed main () {
     std::ios_base::sync_with_stdio(false);
     std::cin.tie(0);
-    filling();
+    fiinting();
 
     int t; t = 1;
     while (t--) solve();
