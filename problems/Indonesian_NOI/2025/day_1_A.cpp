@@ -13,12 +13,12 @@ std::vector<std::tuple<int,int,int>> adj[MAXN];
 std::vector<std::pair<int,int>> rain;
 std::vector<std::pair<int,int>> res;
 std::vector<int> que;
-int ceil[MAXN]; 
+int ceiling[MAXN]; 
 int dist[MAXN];
 
 void filling () {
     for (int i=0; i<MAXN; i++) {
-        dist[i] = ceil[i] = INF;
+        dist[i] = ceiling[i] = INF;
     }
 }
 
@@ -27,20 +27,28 @@ void input (int u, int v, int w, int z) {
     adj[v].push_back({u,w,z});
 }
 
-void dijkstra_ceil (int n) {
+void dijkstra_ceiling (int n) {
     dijkstra.push({0,n});
     while (!dijkstra.empty()) {
-        auto [d, u] = dijkstra.top();
+        auto top = dijkstra.top();
         dijkstra.pop();
+
+        int d = top.first;
+        int u = top.second;
+
+        if (ceiling[u] <= d) continue;
+        ceiling[u] = d;
         
-        if (ceil[u] <= d) continue;
-        ceil[u] = d;
-        
-        for (auto [nxt, w, z] : adj[u]) {
+        for (auto tmp : adj[u]) {
+
+            int nxt = std::get<0>(tmp);
+            int w = std::get<1>(tmp);
+            int z = std::get<2>(tmp);
+
             if (z == 1) continue;
 
-            if (ceil[nxt] <= ceil[u] + w) continue;
-            dijkstra.push({ceil[u] + w, nxt});
+            if (ceiling[nxt] <= ceiling[u] + w) continue;
+            dijkstra.push({ceiling[u] + w, nxt});
         }
     }
 }
@@ -48,17 +56,25 @@ void dijkstra_ceil (int n) {
 void dijkstra_dist () {
     dijkstra.push({0, 1});
     while (!dijkstra.empty()) {
-        auto [d, u] = dijkstra.top();
+        auto top = dijkstra.top();
         dijkstra.pop();
+
+        int d = top.first;
+        int u = top.second;
 
         if (dist[u] <= d) continue;
         dist[u] = d;
 
-        if (ceil[u] != INF) {
-            res.push_back({dist[u], dist[u] + ceil[u]});
+        if (ceiling[u] != INF) {
+            res.push_back({dist[u], dist[u] + ceiling[u]});
         }
 
-        for (auto [nxt, w, z] : adj[u]) {
+        for (auto tmp : adj[u]) {
+
+            int nxt = std::get<0>(tmp);
+            int w = std::get<1>(tmp);
+            int z = std::get<2>(tmp);
+
             if (z == 2) continue;
 
             if (dist[nxt] <= dist[u] + w) continue;
@@ -82,7 +98,7 @@ void solve () {
         que.push_back(x);
     }
 
-    dijkstra_ceil(n);
+    dijkstra_ceiling(n);
     while (!dijkstra.empty()) dijkstra.pop();
     dijkstra_dist();
 
