@@ -31,7 +31,8 @@ int main () {
     }
     std::sort(b.rbegin(), b.rend());
     int ans = 0;
-    for (int i = 0; i < std::min(k-1, b.size()); i++) {
+    int tmp = (k-1 > b.size() ? b.size() : k-1);
+    for (int i = 0; i < tmp; i++) {
         ans += b[i];
     }
     std::cout << ans + (n - track.back().second - track.front().first + 1);
